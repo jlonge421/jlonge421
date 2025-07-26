@@ -41,21 +41,17 @@ https://streak-stats.demolab.com/demo/
 FOR STREAKS:
 &background=0E1116
 &border=04303F
--->
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlonge421&theme=aura&background=0E1116&hide_border=false&border=04303F" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlonge421&theme=aura&background=0E1116&hide_border=false&border=04303F&card_width=350" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-pied-eight-55.vercel.app/api?username=jlonge421&theme=aura&show=reviews,prs_merged,prs_merged_percentage&hide=stars,contribs&show_icons=true&count_private=true&bg_color=0e1116&hide_border=false&border_color=04303F&text_color=00cccc&rank_icon=percentile" />
+  <img height=200 align="center" src="https://github-readme-stats-pied-eight-55.vercel.app/api?username=jlonge421&theme=aura&show=reviews,prs_merged,prs_merged_percentage&hide=stars,contribs&show_icons=true&count_private=true&bg_color=0e1116&hide_border=false&border_color=04303F&text_color=00cccc&rank_icon=percentile&card_width=300" />
 </a>
-
+-->
+![jlonge421's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jlonge421&theme=aura&background=0E1116&hide_border=true&border=04303F&dates=00CCCC&card_width=500&card_height=220)
+![jlonge421's Stats](https://github-readme-stats-pied-eight-55.vercel.app/api?username=jlonge421&theme=aura&show=reviews,prs_merged,prs_merged_percentage&hide=stars,contribs&show_icons=true&count_private=true&bg_color=0e1116&hide_border=true&border_color=04303F&card_width=500&card_height=220&text_color=00cccc&rank_icon=percentile)
 <!--
-![jlonge421's Stats](https://github-readme-stats-pied-eight-55.vercel.app/api?username=jlonge421&theme=aura&show=reviews,prs_merged,prs_merged_percentage&hide=stars,contribs&show_icons=true&count_private=true&bg_color=0e1116&hide_border=false&border_color=04303F&card_width=500&text_color=00cccc&rank_icon=percentile)
-
-![jlonge421's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jlonge421&theme=aura&background=0E1116&hide_border=false&border=04303F&card_width=500)
-
-
-
 ![jlonge421's Top Languages](https://github-readme-stats-pied-eight-55.vercel.app/api/top-langs/?username=jlonge421&theme=aura&show_icons=true&hide_border=false&border_color=04303F&count_private=true&bg_color=0e1116&card_width=500&size_weight=1&count_weight=0.1)
 ![jlonge421's Top Languages](https://github-readme-stats-pied-eight-55.vercel.app/api/top-langs/?username=jlonge421&theme=aura&show_icons=true&hide_border=false&border_color=04303F&count_private=true&bg_color=0e1116&card_width=500&hide=html,php)
 -->
