@@ -1,3 +1,12 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quoteColor=37bead&authorColor=a748db&symbolColor=cf61e5)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jlonge421&bg_color=0d1116&color=8e58d0&line=90b1f4&point=04cbcc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![jlonge421's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jlonge421&theme=aura&background=0E1116&hide_border=true&border=04303F&dates=00CCCC&card_width=500&card_height=220&exclude_days=)
+![jlonge421's Stats](https://github-readme-stats-pied-eight-55.vercel.app/api?username=jlonge421&theme=aura&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&show_icons=true&count_private=true&bg_color=0e1116&hide_border=true&border_color=04303F&card_width=500&card_height=220&text_color=00cccc&rank_icon=percentile)
+![jlonge421's Top Languages](https://github-readme-stats-pied-eight-55.vercel.app/api/top-langs/?username=jlonge421&theme=aura&show_icons=true&hide_border=true&border_color=04303F&count_private=true&bg_color=0e1116&card_width=500&layout=compact&text_color=00cccc&exclude_repo=LTG3,LTG,cards,Processes,LTGcoaches.com)
+
+
+
 <!--
 Good Themes:
 neon
@@ -49,8 +58,6 @@ FOR STREAKS:
   <img height=200 align="center" src="https://github-readme-stats-pied-eight-55.vercel.app/api?username=jlonge421&theme=aura&show=reviews,prs_merged,prs_merged_percentage&hide=stars,contribs&show_icons=true&count_private=true&bg_color=0e1116&hide_border=false&border_color=04303F&text_color=00cccc&rank_icon=percentile&card_width=300" />
 </a>
 -->
-![jlonge421's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jlonge421&theme=aura&background=0E1116&hide_border=true&border=04303F&dates=00CCCC&card_width=500&card_height=220&exclude_days=)
-![jlonge421's Stats](https://github-readme-stats-pied-eight-55.vercel.app/api?username=jlonge421&theme=aura&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&show_icons=true&count_private=true&bg_color=0e1116&hide_border=true&border_color=04303F&card_width=500&card_height=220&text_color=00cccc&rank_icon=percentile)
-![jlonge421's Top Languages](https://github-readme-stats-pied-eight-55.vercel.app/api/top-langs/?username=jlonge421&theme=aura&show_icons=true&hide_border=true&border_color=04303F&count_private=true&bg_color=0e1116&card_width=500&layout=compact&text_color=00cccc&exclude_repo=LTG3,LTG,cards,Processes,LTGcoaches.com)
+
 <!--
 -->
