@@ -1,4 +1,8 @@
+![jlonge421's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jlonge421&background=0e1116&border=ff6ec7&stroke=ff9edb&ring=ff6ec7&fire=ff9edb&currStreakLabel=ffd4a3&sideLabels=ffd4a3&currStreakNum=ffffff&sideNums=ffffff&dates=ff9edb&hide_border=true&card_width=500&card_height=220&exclude_days=)
 
+![jlonge421's Stats](https://github-readme-stats-pied-eight-55.vercel.app/api?username=jlonge421&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&show_icons=true&count_private=true&bg_color=0e1116&title_color=ff6ec7&icon_color=ff9edb&text_color=ffd4a3&hide_border=true&border_color=ff6ec7&card_width=500&card_height=220&rank_icon=percentile)
+
+![jlonge421's Top Languages](https://github-readme-stats-pied-eight-55.vercel.app/api/top-langs/?username=jlonge421&show_icons=true&hide_border=true&bg_color=0e1116&title_color=ff6ec7&text_color=ffd4a3&border_color=ff6ec7&count_private=true&card_width=500&layout=compact&exclude_repo=LTG3,LTG,cards,Processes,LTGcoaches.com)
 
 
 
@@ -9,6 +13,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jlonge421&bg_color=0d1116&color=8e58d0&line=90b1f4&point=04cbcc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quoteColor=37bead&authorColor=a748db&symbolColor=cf61e5)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 <!--
 Good Themes:
