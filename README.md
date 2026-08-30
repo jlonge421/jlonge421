@@ -19,11 +19,12 @@
 [![jlonge421's Top Languages](https://github-readme-stats-pied-eight-55.vercel.app/api/top-langs/?username=jlonge421&show_icons=true&hide_border=true&bg_color=0E1116&title_color=ff6ec7&text_color=ffd4a3&border_color=ff6ec7&count_private=true&card_width=500&layout=compact&exclude_repo=LTG3,LTG,cards,Processes,LTGcoaches.com#gh-dark-mode-only)](https://github.com/jlonge421#gh-dark-mode-only)
 [![jlonge421's Top Languages](https://github-readme-stats-pied-eight-55.vercel.app/api/top-langs/?username=jlonge421&show_icons=true&hide_border=true&bg_color=f7f5f2&title_color=268bd2&text_color=586e75&border_color=268bd2&count_private=true&card_width=500&layout=compact&exclude_repo=LTG3,LTG,cards,Processes,LTGcoaches.com#gh-light-mode-only)](https://github.com/jlonge421#gh-light-mode-only)
 
-<!-- Activity Graph - Dark Mode -->
+<!-- Activity Graph - Dark Mode 
 [![jlonge421's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jlonge421&bg_color=0E1116&color=ffd4a3&line=ec4899&point=ffffff&area_color=ff6ec7&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/jlonge421#gh-dark-mode-only)
-
-<!-- Activity Graph - Light Mode -->
+-->
+<!-- Activity Graph - Light Mode 
 [![jlonge421's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jlonge421&bg_color=f7f5f2&color=586e75&line=cb4b16&point=073642&area_color=268bd2&area=true&hide_border=true#gh-light-mode-only)](https://github.com/jlonge421#gh-light-mode-only)
+-->
 <!--
 <!-- Activity graph ->
 [![jlonge421's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jlonge421&bg_color=0d1321&color=ffd4a3&title_color=ff6ec7&line=ff6ec7&point=ec4899&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
